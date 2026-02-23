@@ -15,7 +15,7 @@
   },
   "messages": {
     "current": "You are running the latest version.",
-    "deprecated": "A newer version is available. This version will continue to run.",
+    "deprecated": "A newer version is available. This version will continue to run temporarily.",
     "blocked": "This version is no longer supported. Please update to continue using this product."
   }
 }
